@@ -1,0 +1,5 @@
+﻿  Tarea1_A01793641.cpp
+C:\Users\artur\OneDrive\Documentos\00.0 Personal\100.0 Maestria\1.0 Trimestres\3er Trimestre\Computo en la Nube\proyectosOMP\Tarea1_A01793641\Tarea1_A01793641.cpp(29,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\artur\OneDrive\Documentos\00.0 Personal\100.0 Maestria\1.0 Trimestres\3er Trimestre\Computo en la Nube\proyectosOMP\Tarea1_A01793641\Tarea1_A01793641.cpp(30,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\artur\OneDrive\Documentos\00.0 Personal\100.0 Maestria\1.0 Trimestres\3er Trimestre\Computo en la Nube\proyectosOMP\Tarea1_A01793641\Tarea1_A01793641.cpp(19,5): warning C4101: 'i': unreferenced local variable
+  Tarea1_A01793641.vcxproj -> C:\Users\artur\OneDrive\Documentos\00.0 Personal\100.0 Maestria\1.0 Trimestres\3er Trimestre\Computo en la Nube\proyectosOMP\Tarea1_A01793641\x64\Debug\Tarea1_A01793641.exe
